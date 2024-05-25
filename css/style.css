@@ -1,0 +1,23 @@
+h2, p, li {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h1 {
+  color: darkred;
+  font-size: 36px;
+}
+
+h2 {
+  color: darkblue;
+}
+
+p, li {
+  color: darkgreen;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
